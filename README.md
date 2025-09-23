@@ -2,6 +2,84 @@
 
 A comprehensive analytics dashboard application for software companies, designed to display and analyze key performance indicators (KPIs) and metrics across quarters.
 
+## 🌟 Features
+
+- **Revenue Split Analysis**: Track revenue distribution between North America and APAC regions
+- **Interactive Dashboard**: Real-time KPI cards with trend indicators
+- **Historical Data**: Quarter-over-quarter comparisons and trend analysis
+- **File Upload**: Support for CSV, XLS, and XLSX file formats
+- **Modern UI**: Clean, responsive interface built with React and Tailwind CSS
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Local Development
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/elt-dashboard-mvp.git
+   cd elt-dashboard-mvp
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   # Backend
+   cd backend
+   npm install
+   
+   # Frontend
+   cd ../frontend
+   npm install
+   ```
+
+3. **Start the application**:
+   ```bash
+   # Terminal 1 - Backend
+   cd backend
+   npm start
+   
+   # Terminal 2 - Frontend
+   cd frontend
+   npm start
+   ```
+
+4. **Access the application**:
+   - Frontend: http://localhost:3000
+   - Backend API: http://localhost:5001
+
+## 📊 Revenue Split Metrics
+
+The dashboard now includes regional revenue analysis:
+- **North America Revenue Split**: Currently 30%
+- **APAC Revenue Split**: Currently 70%
+- **Historical Growth**: Shows progression from 10% NA to 30% NA over 5 quarters
+
+## 🚀 Deployment
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
+
+**Quick Deploy Options**:
+- **Vercel + Railway**: Free tier available
+- **Netlify + Railway**: Alternative free option
+- **DigitalOcean**: Full-stack deployment (~$12-24/month)
+
+## 🏗️ Architecture
+
+### Backend (Node.js/Express)
+- RESTful API with Express.js
+- SQLite database for data persistence
+- File processing for CSV/Excel uploads
+- OpenAI integration for insights
+
+### Frontend (React)
+- Modern React 18 with functional components
+- Tailwind CSS for styling
+- Recharts for data visualization
+- Responsive design for all devices
+
 ## 🚀 Features
 
 ### Data Upload and Management
