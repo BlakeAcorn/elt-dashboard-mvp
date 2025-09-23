@@ -280,16 +280,12 @@ const Summary = () => {
                                        (metric === 'CAC' && change < 0) || // Lower CAC is better
                                        (['Total ARR', 'Net New ARR Added', 'NRR', 'Deployment Frequency', 'eNPS (Employee Engagement)'].includes(metric) && change > 0);
 
-                  let changeText = '';
                   let changeValue = '';
                   if (comparison.current.metric_unit === 'USD') {
-                    changeText = `${isPositive ? '+' : ''}$${(change / 1000).toFixed(0)}K`;
                     changeValue = `${isPositive ? '+' : ''}$${(change / 1000).toFixed(0)}K`;
                   } else if (comparison.current.metric_unit === '%') {
-                    changeText = `${isPositive ? '+' : ''}${change.toFixed(1)}%`;
                     changeValue = `${isPositive ? '+' : ''}${change.toFixed(1)}%`;
                   } else {
-                    changeText = `${isPositive ? '+' : ''}${change.toFixed(1)}`;
                     changeValue = `${isPositive ? '+' : ''}${change.toFixed(1)}`;
                   }
 
