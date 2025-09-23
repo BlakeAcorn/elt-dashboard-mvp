@@ -3,7 +3,9 @@ import axios from 'axios';
 // Dynamically determine API URL based on current host
 const getApiBaseUrl = () => {
   if (process.env.REACT_APP_API_URL) {
-    return process.env.REACT_APP_API_URL;
+    // Ensure the URL ends with /api
+    const url = process.env.REACT_APP_API_URL;
+    return url.endsWith('/api') ? url : `${url}/api`;
   }
   
   // If we're on ngrok, use the ngrok backend URL
