@@ -31,7 +31,8 @@ app.use(cors({
     'http://192.168.1.45:3000', // Local network access
     /^http:\/\/192\.168\.1\.\d+:3000$/, // Any device on local network
     /^https:\/\/.*\.ngrok\.io$/, // Ngrok tunnels
-    /^https:\/\/.*\.ngrok-free\.app$/ // Ngrok free tunnels
+    /^https:\/\/.*\.ngrok-free\.app$/, // Ngrok free tunnels
+    /^https:\/\/.*\.vercel\.app$/ // Vercel deployments
   ],
   credentials: true
 }));
