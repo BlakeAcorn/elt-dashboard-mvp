@@ -16,6 +16,11 @@ const AcornLogo = ({ size = 'default', variant = 'horizontal', className = '' })
       alt="Acorn Logo"
       className={`${iconSizeClasses[size]}`}
       style={{ minWidth: '24px', minHeight: '24px' }}
+      onError={(e) => {
+        console.error('Logo failed to load:', e.target.src);
+        e.target.style.display = 'none';
+      }}
+      onLoad={() => console.log('Logo loaded successfully')}
     />
   );
 
