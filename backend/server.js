@@ -81,4 +81,5 @@ if (!fs.existsSync(uploadsDir)) {
 app.listen(PORT, () => {
   console.log(`🚀 ELT Dashboard Backend running on port ${PORT}`);
   console.log(`📊 Health check: http://localhost:${PORT}/api/health`);
+  console.log(`📊 API Routes loaded successfully`);
 });
