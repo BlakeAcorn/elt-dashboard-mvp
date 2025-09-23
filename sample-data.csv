@@ -1,0 +1,161 @@
+quarter,year,metric_name,metric_value,metric_unit,category,description
+Q1,2024,ARR,6500000,USD,Financial,Annual Recurring Revenue
+Q1,2024,Customer Churn Rate,5.2,%,Customer,Percentage of customers lost
+Q1,2024,Deployment Frequency,12,per month,Engineering,Number of deployments per month
+Q1,2024,Uptime/SLA,99.9,%,Engineering,System uptime percentage
+Q1,2024,Net New ARR Added,238000,USD,Financial,New ARR added this quarter
+Q1,2024,NRR,105,%,Financial,Net Revenue Retention
+Q1,2024,Burn Multiple,1.35,,Financial,Burn rate multiple
+Q1,2024,Runway,18,months,Financial,Cash runway in months
+Q1,2024,Gross Margin,85,%,Financial,Product gross margin
+Q1,2024,ARR Growth YoY,47,%,Financial,Year-over-year ARR growth
+Q1,2024,BPd on ARR Added,4800,USD,Financial,Burn per dollar of ARR added
+Q1,2024,Pipeline,7700000,USD,Sales,Sales pipeline value
+Q1,2024,Gross Logo Churn,5.2,%,Customer,Logo churn rate
+Q1,2024,Feature Adoption,48,%,Product,New feature adoption rate
+Q1,2024,Win Rate,14,%,Sales,Sales win rate
+Q1,2024,CAC Payback Period,13,months,Sales,Customer acquisition cost payback
+Q1,2024,Headcount vs Plan,71,%,People,Headcount vs planned hiring
+Q1,2024,Attrition Voluntary,1.4,%,People,Voluntary employee attrition
+Q1,2024,CAC Mid Market,2500,USD,Sales,Customer acquisition cost mid market
+Q1,2024,CAC Enterprise,8500,USD,Sales,Customer acquisition cost enterprise
+Q1,2024,Avg Sales Cycle Mid Market,120,days,Sales,Average sales cycle mid market
+Q1,2024,Avg Sales Cycle Enterprise,149,days,Sales,Average sales cycle enterprise
+Q1,2024,Current ARR per Person,68,USD,People,ARR per employee
+Q1,2024,Q1 FY26 Target,96,USD,People,Target ARR per employee
+Q1,2024,NPS Customer Loyalty,42,,Customer,Net Promoter Score
+Q1,2024,CSAT Support,84.6,%,Customer,Customer satisfaction score
+Q1,2024,Ticket Volume,1101,,Customer,Support ticket volume
+Q1,2024,Customers,213,,Customer,Total customer count
+Q1,2024,Time to First Value,3,days,Customer,Time to customer value
+Q1,2024,eNPS Employee,50,,People,Employee Net Promoter Score
+Q1,2024,Revenue Split - North America,30,%,Financial,Percentage of revenue from North America
+Q1,2024,Revenue Split - APAC,70,%,Financial,Percentage of revenue from APAC
+Q4,2023,ARR,6200000,USD,Financial,Annual Recurring Revenue
+Q4,2023,Customer Churn Rate,5.5,%,Customer,Percentage of customers lost
+Q4,2023,Deployment Frequency,10,per month,Engineering,Number of deployments per month
+Q4,2023,Uptime/SLA,99.8,%,Engineering,System uptime percentage
+Q4,2023,Net New ARR Added,200000,USD,Financial,New ARR added this quarter
+Q4,2023,NRR,102,%,Financial,Net Revenue Retention
+Q4,2023,Burn Multiple,1.45,,Financial,Burn rate multiple
+Q4,2023,Runway,15,months,Financial,Cash runway in months
+Q4,2023,Gross Margin,82,%,Financial,Product gross margin
+Q4,2023,ARR Growth YoY,38,%,Financial,Year-over-year ARR growth
+Q4,2023,BPd on ARR Added,5200,USD,Financial,Burn per dollar of ARR added
+Q4,2023,Pipeline,7200000,USD,Sales,Sales pipeline value
+Q4,2023,Gross Logo Churn,5.8,%,Customer,Logo churn rate
+Q4,2023,Feature Adoption,42,%,Product,New feature adoption rate
+Q4,2023,Win Rate,12,%,Sales,Sales win rate
+Q4,2023,CAC Payback Period,15,months,Sales,Customer acquisition cost payback
+Q4,2023,Headcount vs Plan,68,%,People,Headcount vs planned hiring
+Q4,2023,Attrition Voluntary,2.1,%,People,Voluntary employee attrition
+Q4,2023,CAC Mid Market,2800,USD,Sales,Customer acquisition cost mid market
+Q4,2023,CAC Enterprise,9200,USD,Sales,Customer acquisition cost enterprise
+Q4,2023,Avg Sales Cycle Mid Market,135,days,Sales,Average sales cycle mid market
+Q4,2023,Avg Sales Cycle Enterprise,165,days,Sales,Average sales cycle enterprise
+Q4,2023,Current ARR per Person,62,USD,People,ARR per employee
+Q4,2023,Q1 FY26 Target,96,USD,People,Target ARR per employee
+Q4,2023,NPS Customer Loyalty,38,,Customer,Net Promoter Score
+Q4,2023,CSAT Support,81.2,%,Customer,Customer satisfaction score
+Q4,2023,Ticket Volume,1250,,Customer,Support ticket volume
+Q4,2023,Customers,198,,Customer,Total customer count
+Q4,2023,Time to First Value,4,days,Customer,Time to customer value
+Q4,2023,eNPS Employee,45,,People,Employee Net Promoter Score
+Q4,2023,Revenue Split - North America,25,%,Financial,Percentage of revenue from North America
+Q4,2023,Revenue Split - APAC,75,%,Financial,Percentage of revenue from APAC
+Q3,2023,ARR,5800000,USD,Financial,Annual Recurring Revenue
+Q3,2023,Customer Churn Rate,5.8,%,Customer,Percentage of customers lost
+Q3,2023,Deployment Frequency,8,per month,Engineering,Number of deployments per month
+Q3,2023,Uptime/SLA,99.7,%,Engineering,System uptime percentage
+Q3,2023,Net New ARR Added,180000,USD,Financial,New ARR added this quarter
+Q3,2023,NRR,98,%,Financial,Net Revenue Retention
+Q3,2023,Burn Multiple,1.55,,Financial,Burn rate multiple
+Q3,2023,Runway,12,months,Financial,Cash runway in months
+Q3,2023,Gross Margin,80,%,Financial,Product gross margin
+Q3,2023,ARR Growth YoY,35,%,Financial,Year-over-year ARR growth
+Q3,2023,BPd on ARR Added,5800,USD,Financial,Burn per dollar of ARR added
+Q3,2023,Pipeline,6800000,USD,Sales,Sales pipeline value
+Q3,2023,Gross Logo Churn,6.2,%,Customer,Logo churn rate
+Q3,2023,Feature Adoption,38,%,Product,New feature adoption rate
+Q3,2023,Win Rate,10,%,Sales,Sales win rate
+Q3,2023,CAC Payback Period,18,months,Sales,Customer acquisition cost payback
+Q3,2023,Headcount vs Plan,65,%,People,Headcount vs planned hiring
+Q3,2023,Attrition Voluntary,2.5,%,People,Voluntary employee attrition
+Q3,2023,CAC Mid Market,3000,USD,Sales,Customer acquisition cost mid market
+Q3,2023,CAC Enterprise,9800,USD,Sales,Customer acquisition cost enterprise
+Q3,2023,Avg Sales Cycle Mid Market,145,days,Sales,Average sales cycle mid market
+Q3,2023,Avg Sales Cycle Enterprise,175,days,Sales,Average sales cycle enterprise
+Q3,2023,Current ARR per Person,58,USD,People,ARR per employee
+Q3,2023,Q1 FY26 Target,96,USD,People,Target ARR per employee
+Q3,2023,NPS Customer Loyalty,35,,Customer,Net Promoter Score
+Q3,2023,CSAT Support,78.5,%,Customer,Customer satisfaction score
+Q3,2023,Ticket Volume,1380,,Customer,Support ticket volume
+Q3,2023,Customers,185,,Customer,Total customer count
+Q3,2023,Time to First Value,5,days,Customer,Time to customer value
+Q3,2023,eNPS Employee,42,,People,Employee Net Promoter Score
+Q3,2023,Revenue Split - North America,20,%,Financial,Percentage of revenue from North America
+Q3,2023,Revenue Split - APAC,80,%,Financial,Percentage of revenue from APAC
+Q2,2023,ARR,5400000,USD,Financial,Annual Recurring Revenue
+Q2,2023,Customer Churn Rate,6.0,%,Customer,Percentage of customers lost
+Q2,2023,Deployment Frequency,6,per month,Engineering,Number of deployments per month
+Q2,2023,Uptime/SLA,99.5,%,Engineering,System uptime percentage
+Q2,2023,Net New ARR Added,160000,USD,Financial,New ARR added this quarter
+Q2,2023,NRR,95,%,Financial,Net Revenue Retention
+Q2,2023,Burn Multiple,1.65,,Financial,Burn rate multiple
+Q2,2023,Runway,10,months,Financial,Cash runway in months
+Q2,2023,Gross Margin,78,%,Financial,Product gross margin
+Q2,2023,ARR Growth YoY,32,%,Financial,Year-over-year ARR growth
+Q2,2023,BPd on ARR Added,6200,USD,Financial,Burn per dollar of ARR added
+Q2,2023,Pipeline,6200000,USD,Sales,Sales pipeline value
+Q2,2023,Gross Logo Churn,6.5,%,Customer,Logo churn rate
+Q2,2023,Feature Adoption,35,%,Product,New feature adoption rate
+Q2,2023,Win Rate,8,%,Sales,Sales win rate
+Q2,2023,CAC Payback Period,20,months,Sales,Customer acquisition cost payback
+Q2,2023,Headcount vs Plan,62,%,People,Headcount vs planned hiring
+Q2,2023,Attrition Voluntary,2.8,%,People,Voluntary employee attrition
+Q2,2023,CAC Mid Market,3200,USD,Sales,Customer acquisition cost mid market
+Q2,2023,CAC Enterprise,10500,USD,Sales,Customer acquisition cost enterprise
+Q2,2023,Avg Sales Cycle Mid Market,155,days,Sales,Average sales cycle mid market
+Q2,2023,Avg Sales Cycle Enterprise,185,days,Sales,Average sales cycle enterprise
+Q2,2023,Current ARR per Person,55,USD,People,ARR per employee
+Q2,2023,Q1 FY26 Target,96,USD,People,Target ARR per employee
+Q2,2023,NPS Customer Loyalty,32,,Customer,Net Promoter Score
+Q2,2023,CSAT Support,76.0,%,Customer,Customer satisfaction score
+Q2,2023,Ticket Volume,1520,,Customer,Support ticket volume
+Q2,2023,Customers,172,,Customer,Total customer count
+Q2,2023,Time to First Value,6,days,Customer,Time to customer value
+Q2,2023,eNPS Employee,38,,People,Employee Net Promoter Score
+Q2,2023,Revenue Split - North America,15,%,Financial,Percentage of revenue from North America
+Q2,2023,Revenue Split - APAC,85,%,Financial,Percentage of revenue from APAC
+Q1,2023,ARR,5000000,USD,Financial,Annual Recurring Revenue
+Q1,2023,Customer Churn Rate,6.5,%,Customer,Percentage of customers lost
+Q1,2023,Deployment Frequency,4,per month,Engineering,Number of deployments per month
+Q1,2023,Uptime/SLA,99.2,%,Engineering,System uptime percentage
+Q1,2023,Net New ARR Added,140000,USD,Financial,New ARR added this quarter
+Q1,2023,NRR,92,%,Financial,Net Revenue Retention
+Q1,2023,Burn Multiple,1.75,,Financial,Burn rate multiple
+Q1,2023,Runway,8,months,Financial,Cash runway in months
+Q1,2023,Gross Margin,75,%,Financial,Product gross margin
+Q1,2023,ARR Growth YoY,28,%,Financial,Year-over-year ARR growth
+Q1,2023,BPd on ARR Added,6800,USD,Financial,Burn per dollar of ARR added
+Q1,2023,Pipeline,5800000,USD,Sales,Sales pipeline value
+Q1,2023,Gross Logo Churn,7.0,%,Customer,Logo churn rate
+Q1,2023,Feature Adoption,30,%,Product,New feature adoption rate
+Q1,2023,Win Rate,6,%,Sales,Sales win rate
+Q1,2023,CAC Payback Period,22,months,Sales,Customer acquisition cost payback
+Q1,2023,Headcount vs Plan,58,%,People,Headcount vs planned hiring
+Q1,2023,Attrition Voluntary,3.2,%,People,Voluntary employee attrition
+Q1,2023,CAC Mid Market,3500,USD,Sales,Customer acquisition cost mid market
+Q1,2023,CAC Enterprise,11200,USD,Sales,Customer acquisition cost enterprise
+Q1,2023,Avg Sales Cycle Mid Market,165,days,Sales,Average sales cycle mid market
+Q1,2023,Avg Sales Cycle Enterprise,195,days,Sales,Average sales cycle enterprise
+Q1,2023,Current ARR per Person,52,USD,People,ARR per employee
+Q1,2023,Q1 FY26 Target,96,USD,People,Target ARR per employee
+Q1,2023,NPS Customer Loyalty,28,,Customer,Net Promoter Score
+Q1,2023,CSAT Support,73.5,%,Customer,Customer satisfaction score
+Q1,2023,Ticket Volume,1680,,Customer,Support ticket volume
+Q1,2023,Customers,158,,Customer,Total customer count
+Q1,2023,Time to First Value,7,days,Customer,Time to customer value
+Q1,2023,eNPS Employee,35,,People,Employee Net Promoter Score
+Q1,2023,Revenue Split - North America,10,%,Financial,Percentage of revenue from North America
+Q1,2023,Revenue Split - APAC,90,%,Financial,Percentage of revenue from APAC
