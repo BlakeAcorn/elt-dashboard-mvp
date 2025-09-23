@@ -1,4 +1,5 @@
 import React from 'react';
+import logoPath from '../assets/acorn-logo.svg';
 
 const AcornLogo = ({ size = 'default', variant = 'horizontal', className = '' }) => {
 
@@ -12,7 +13,7 @@ const AcornLogo = ({ size = 'default', variant = 'horizontal', className = '' })
 
   const LogoIcon = () => (
     <img 
-      src="/acorn-logo.svg" 
+      src={logoPath} 
       alt="Acorn Logo"
       className={`${iconSizeClasses[size]}`}
       style={{ minWidth: '24px', minHeight: '24px' }}
