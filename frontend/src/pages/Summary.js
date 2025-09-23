@@ -280,7 +280,7 @@ const Summary = () => {
                                        (metric === 'CAC' && change < 0) || // Lower CAC is better
                                        (['Total ARR', 'Net New ARR Added', 'NRR', 'Deployment Frequency', 'eNPS (Employee Engagement)'].includes(metric) && change > 0);
 
-                  let changeValue = '';
+                  let changeValue = ''; // Fixed ESLint error
                   if (comparison.current.metric_unit === 'USD') {
                     changeValue = `${isPositive ? '+' : ''}$${(change / 1000).toFixed(0)}K`;
                   } else if (comparison.current.metric_unit === '%') {
