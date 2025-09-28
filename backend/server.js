@@ -10,6 +10,7 @@ require('dotenv').config();
 const dataRoutes = require('./routes/dataRoutes');
 const uploadRoutes = require('./routes/uploadRoutes');
 const analysisRoutes = require('./routes/analysisRoutes');
+const hubspotRoutes = require('./routes/hubspotRoutes');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -48,6 +49,7 @@ app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use('/api/data', dataRoutes);
 app.use('/api/upload', uploadRoutes);
 app.use('/api/analysis', analysisRoutes);
+app.use('/api/hubspot', hubspotRoutes);
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {
